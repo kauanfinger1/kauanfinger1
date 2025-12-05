@@ -1,4 +1,4 @@
-# Hey, I'm Kauan Finger 👨🏻‍💻
+# Hello, I'm Kauan Finger 👨🏻‍💻
 *Acadêmico de Análise e Desenvolvimento de Sistemas*
 
 ---
