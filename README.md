@@ -11,7 +11,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
   <a href="https://www.instagram.com/kauanpkf/">
     <img 
       alt="Instagram" 
-      src="https://img.shields.io/badge/Instagram-%40kauanpkf-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-%40kauanpkf-black?style=for-the-badge&logo=instagram&logoColor=black&labelColor=FF0000
+"
     />
   </a>
 
