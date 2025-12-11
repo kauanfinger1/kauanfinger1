@@ -101,9 +101,4 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kauanfinger1&theme=tokyonight"
     alt="Summary Card"
   />
-
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=kauanfinger1&theme=tokyonight"
-    alt="Trophy"
-  />
 </div>
